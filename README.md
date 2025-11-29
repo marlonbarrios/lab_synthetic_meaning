@@ -1,16 +1,33 @@
 # 🌟 Laboratory of Synthetic Meaning
 
-By Marlon Barrios Solano
-
+By Marlon Barrios Solano  
 Starting October 2025
 
-<img width="1808" height="1118" alt="st2" src="https://github.com/user-attachments/assets/3f1ad3f0-7b55-4a23-96a2-20a9e6090a3b" />
+<img 
+  src="https://github.com/user-attachments/assets/3f1ad3f0-7b55-4a23-96a2-20a9e6090a3b" 
+  alt="st2"
+  style="
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    display: block;
+"
+/>
 
 The **Laboratory of Synthetic Meaning** is a research-driven artistic ecosystem dedicated to exploring language as a living, unstable epistemic field. It brings together computational systems, generative models, and embodied artistic practices to examine how meaning arises, mutates, collapses, and reorganizes through human–machine interaction. Rather than treating language as a static repository of facts, the Laboratory approaches it as a dynamic epistemic object—one that reveals its internal logics, tensions, and architectures when activated by large language models (LLMs).
 
 At the center of this project lies a conceptual shift: **language is not retrieved but generated**—not recalled but performed. LLMs expose this by revealing knowledge as a form of *probabilistic choreography*, in which every sentence becomes an emergent event shaped by memory, data, context, and computational inference. Meaning becomes something that can stretch, fold, resonate, decay, or slip into ambiguity. Through this lens, language is treated as a material subject to forces akin to physics—tension, gravity, drift, equilibrium, entropy—each manifesting as a semantic effect or experiential phenomenon.
 
-<img width="1622" height="1155" alt="mf2" src="https://github.com/user-attachments/assets/8ab905d5-b88d-453c-ab1e-fb3465cbe423" />
+<img 
+  src="https://github.com/user-attachments/assets/8ab905d5-b88d-453c-ab1e-fb3465cbe423" 
+  alt="mf2"
+  style="
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    display: block;
+"
+/>
 
 ## Core Concept: Language as an Epistemic Object
 
