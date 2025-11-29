@@ -1,4 +1,9 @@
 # 🌟 Laboratory of Synthetic Meaning
+
+By Marlon Barrios Solano
+
+Starting October 2025
+
 <img width="1808" height="1118" alt="st2" src="https://github.com/user-attachments/assets/3f1ad3f0-7b55-4a23-96a2-20a9e6090a3b" />
 
 The **Laboratory of Synthetic Meaning** is a research-driven artistic ecosystem dedicated to exploring language as a living, unstable epistemic field. It brings together computational systems, generative models, and embodied artistic practices to examine how meaning arises, mutates, collapses, and reorganizes through human–machine interaction. Rather than treating language as a static repository of facts, the Laboratory approaches it as a dynamic epistemic object—one that reveals its internal logics, tensions, and architectures when activated by large language models (LLMs).
